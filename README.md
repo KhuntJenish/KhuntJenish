@@ -4,6 +4,7 @@
 
 I'm a passionate **Flutter developer** with **4+ years of experience**, specializing in building scalable and high-performance mobile applications. With expertise in **Flutter, Dart, Firebase, and backend technologies**, I craft seamless digital experiences across various domains.
 
+
 ---
 
 ## 💼 About Me
@@ -12,7 +13,7 @@ I'm a passionate **Flutter developer** with **4+ years of experience**, speciali
 - 📱 Working on **Society360** – A society management platform for maintenance, expenses, and parking management.
 - 🌱 Exploring **AI integration** into mobile apps.
 - 💬 Let's talk about **Flutter, Firebase, Node.js, or Full-Stack Development**!
-- 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/khunt-jenish/) | [GitHub](https://github.com/KhuntJenish) | [Stackoverflow](https://stackoverflow.com/users/21272658/khunt-jenish)
+- 📫 Reach me at: [LinkedIn](https://www.linkedin.com/in/khunt-jenish/) | [GitHub](https://github.com/KhuntJenish) | [Stackoverflow](https://stackoverflow.com/users/21272658/khunt-jenish) | [WakaTime](https://wakatime.com/@KhuntJenish7027)
 
 ---
 
