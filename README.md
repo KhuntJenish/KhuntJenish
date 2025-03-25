@@ -4,6 +4,9 @@
 
 I'm a passionate **Flutter developer** with **4+ years of experience**, specializing in building scalable and high-performance mobile applications. With expertise in **Flutter, Dart, Firebase, and backend technologies**, I craft seamless digital experiences across various domains.
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=khodaltech&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+</p>
 
 ---
 
