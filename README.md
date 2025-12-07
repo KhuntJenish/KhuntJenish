@@ -66,7 +66,7 @@ A comprehensive solution for **maintenance, expenses, parking management, flat r
 ---
 
 ## 🤝 Let's Connect
-📩 **Email:** [jenishkhunt@gmail.com](mailto:jenishkhunt@gmail.com)  
+📩 **Email:** [jenishkhunt.dev@gmail.com](mailto:jenishkhunt.dev@gmail.com)  
 💼 **LinkedIn:** [jenishkhunt](https://www.linkedin.com/in/khunt-jenish/)  
 📱 **GitHub:** [jenishkhunt](https://github.com/KhuntJenish)
 
